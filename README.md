@@ -4,6 +4,8 @@ This repository has the goal of becoming a Rust Crash Course
 
 I will do it completely in public, learning Rust From Zero
 
+Online book: https://doc.rust-lang.org/book/title-page.html
+
 Livestream links
 
 |#| Image | Topic | Link |
