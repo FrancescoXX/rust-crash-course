@@ -6,6 +6,8 @@ I will do it completely in public, learning Rust From Zero
 
 Online book: https://doc.rust-lang.org/book/title-page.html
 
+VSCode Extension: [rust Analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+
 Livestream links
 
 |#| Image | Topic | Link |
