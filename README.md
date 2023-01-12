@@ -1,9 +1,5 @@
 # Rust Crash Course
 
-
-![Rust Programming language (10)](https://user-images.githubusercontent.com/18360871/210714961-7957b900-e98c-4662-b3f7-fb16a9207032.png)
-
-
 This repository has the goal of becoming a Rust Crash Course
 
 I will do it completely in public, learning Rust From Zero
