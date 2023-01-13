@@ -8,6 +8,7 @@ Online book: https://doc.rust-lang.org/book/title-page.html
 
 VSCode Extension: [rust Analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
 
+
 Livestream links
 
 |#| Image | Topic | Link |
@@ -18,6 +19,11 @@ Livestream links
 |4| <a href="https://youtube.com/live/UuSMF4rlOOE"><img src="https://user-images.githubusercontent.com/18360871/210136689-73fe0808-2c44-4f7f-b2ee-5d6f218e0380.png" width="200"></a>| Guessing game (part2) | [Guessing game - Part 2](https://youtube.com/live/UuSMF4rlOOE) |
 |5| <a href="https://youtube.com/live/-tVStdPo1JU"><img src="https://user-images.githubusercontent.com/18360871/210136721-b61ad835-5ca4-4d63-a1e8-41e935eb5337.png" width="200"></a>| Guessing game (part3) | [Guessing game - Part 3](https://youtube.com/live/-tVStdPo1JU) |
 |6| <a href="https://youtube.com/live/0j0pisW3M6E"><img src="https://user-images.githubusercontent.com/18360871/210714961-7957b900-e98c-4662-b3f7-fb16a9207032.png" width="200"></a>| Guessing game (part3) | [Rust - Programming Concepts](https://youtube.com/live/0j0pisW3M6E) |
+|7| <a href="https://youtube.com/live/BF1WfJRXqK8"><img src="https://user-images.githubusercontent.com/18360871/212301049-f7335714-acce-4ec2-bd8e-0cccb6969c37.png" width="200"></a>| Control flow | [Control flow](https://youtube.com/live/BF1WfJRXqK8) |
+|8| <a href=""><img src="" width="200"></a>| TBD | [TBD]() |
+|9| <a href=""><img src="" width="200"></a>| TBD | [TBD]() |
+|10| <a href=""><img src="" width="200"></a>| TBD | [TBD]() |
+
 
 
 
