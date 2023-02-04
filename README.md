@@ -11,6 +11,8 @@ VSCode Extension: [rust Analyzer](https://marketplace.visualstudio.com/items?ite
 
 Rocket framework: https://rocket.rs/
 
+https://tms-dev-blog.com/postgresql-database-with-rust-how-to/#:~:text=We%20can%20enter%20the%20terminal,%2Dd%20postgres%20%2DU%20dboperator%20.
+
 Livestream links
 
 |#| Image | Topic | Link |
