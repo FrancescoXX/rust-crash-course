@@ -1,0 +1,28 @@
+version: "3.9"
+
+services:
+  rust_backend:
+    container_name: rust_backend
+    image: francescoxx/rust_backend:1.0.0
+    build: .
+    ports:
+      - "8080:8080"
+    environment:
+      - DATABASE_URL=postgres://francesco:12345@rust_api_db:5432/rust_api_database
+    depends_on:
+      - rust_api_db
+  
+  rust_api_db:
+    container_name: rust_api_db
+    image: "postgres:12"
+    ports:
+      - "5432:5432"
+    environment:
+      - POSTGRES_USER=francesco
+      - POSTGRES_PASSWORD=12345
+      - POSTGRES_DB=rust_api_database
+    volumes:
+      - rust_api_data:/var/lib/postgresql/data
+
+volumes:
+  rust_api_data: {}
